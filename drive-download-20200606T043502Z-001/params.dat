@@ -1,0 +1,5 @@
+NumberOfParticles: 200
+NumberOfIterations: 2000
+MassOfSun: 1000000000
+DeltaTime: 10
+PopulateLimits: 50
